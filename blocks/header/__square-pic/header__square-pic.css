@@ -1,0 +1,10 @@
+.header__square-pic {
+    width: 568px;
+    height: 568px;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background-color: #2f80ed;
+    transform: rotate(-15deg);
+    animation: rotation 20s linear infinite;
+  }

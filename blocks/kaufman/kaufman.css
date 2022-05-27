@@ -1,0 +1,10 @@
+@import url(__triangle/kaufman__triangle.css);
+.kaufman {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+    position: relative;
+    background-color: #1f1f1f;
+    padding: 90px 0 90px;
+  }
