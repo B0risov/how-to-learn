@@ -19,10 +19,10 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
-@import url(../block/cards/__item/cards__item.css);
-@import url(../block/cards/__image/cards__image.css);
-@import url(../block/cards/__title/cards__title.css);
-@import url(../block/cards/__description/cards__description.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
